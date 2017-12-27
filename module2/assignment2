@@ -1,0 +1,19 @@
+#0 Flask - Microframework for Python based on Werkzeug(WSGI library), Jinja 2(templating language). 
+
+#1 ORM - Object-relational mapping: creating "virtual" object databases on scalar-based database systems (e.g. SQL)  
+
+#2 REST - REpresentational State Transfer: Architectural style that advocates web applications should use HTTP under six constraints for efficient communication
+
+#3 .NET - software framework primarily run on MS Windows. Can run applications and web services
+
+#4 Angular.js - Web application framework; front-end; developed by Google
+
+#5 Node.js - JS runtime environment on server-side. Best at data-intensive, real-time applications
+
+#6 Runtime Environment - Execution environment. In an RTE, an application can send instructions to computer resources (CPU, RAM, etc.)
+
+#7 JSON - JavaScript Object Notation: Data-interchange format. Syntax for storing and exchanging data.
+
+#8 jQuery - JS library. Designed to simplify client-side scripting of HTML. Focused on DOM manipulation.
+
+#9 React.js - JS library for building user interfaces; front-side 

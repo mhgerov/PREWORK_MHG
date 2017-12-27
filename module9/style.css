@@ -1,0 +1,45 @@
+.center {
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.big {
+    font-size: 200%;
+}
+
+.small {
+    font-size: 50%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.fontfam {
+    font-family: Courier New;
+}
+
+#multatt {
+    font-size: 150%;
+    color: orange;
+    font-weight: bold;
+}
+
+.styledFont {
+    color: maroon;
+}
+
+#styledImage {
+    border: 5px solid black;
+}
